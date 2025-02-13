@@ -9,4 +9,4 @@
 
 - 💌 How to reach me **contact@vidora.me** 
 
-- 🚀 <a href="https://dcd.gg/vidora" target="_blank"><strong>Let’s chat on Discord!</strong></a>  
+- 🚀 Let’s chat on <a href="https://dcd.gg/vidora" target="_blank"><strong>Discord</strong></a>
