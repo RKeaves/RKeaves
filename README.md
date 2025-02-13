@@ -7,4 +7,6 @@
 
 - ↪ Ask me about **Python, web development, automation, and P2P**
 
-- 💌 How to reach me **contact@vidora.me**
+- 💌 How to reach me **contact@vidora.me** 
+
+- 🚀 <a href="https://dcd.gg/vidora" target="_blank"><strong>Let’s chat on Discord!</strong></a>  
