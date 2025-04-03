@@ -20,7 +20,12 @@
 
 ### 💬 Connect With Me
 - Ask me about **Python | Web Development | Automation | P2P**
-- 📫 Reach me at: **contact@vidora.me**
+- 📫 Reach me at **contact@vidora.me**
 - 🚀 Let's chat on <a href="https://dcd.gg/vidora" target="_blank"><strong>Discord</strong></a>
+
+### ☕ Buy Me a Coffee
+- <strong>BTC</strong> <code>bc1q0cgegfe3lc9k5n9d657yu6gmx7haq3mf3v53nk</code>
+- <strong>ETH</strong> <code>0xc4B1CCA7aeB39FF6cf98D1f955B257706b330C8C</code>
+- <strong>DOGE</strong> <code>DHU4xvNJgvNqgGtVLre7L4ubgzBQERiemn</code>
 
 ---
