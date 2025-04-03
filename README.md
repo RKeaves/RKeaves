@@ -19,7 +19,7 @@
 - **Experimenting** with web development frameworks
 
 ### 💬 Connect With Me
-- Ask me about **Python | Web Development | Automation | P2P**
+- Ask me about **Python | JavaScript | Automation | P2P**
 - 📫 Reach me at **contact@vidora.me**
 - 🚀 Let's chat on <a href="https://dcd.gg/vidora" target="_blank"><strong>Discord</strong></a>
 
