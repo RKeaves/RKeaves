@@ -27,9 +27,10 @@
 <details>
   <summary>☕ <strong><em>BTC:</em></strong> <code>bc1q0cgegfe3lc9k5n9d657yu6gmx7haq3mf3v53nk</code></summary>
 
-  -  _Sip by sip, we build something great!_
   - **ETH**: `0xc4B1CCA7aeB39FF6cf98D1f955B257706b330C8C`
   - **DOGE**: `DHU4xvNJgvNqgGtVLre7L4ubgzBQERiemn`
+
+      _Sip by sip, we build something great!_
 
 </details>
 
