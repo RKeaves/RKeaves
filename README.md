@@ -14,13 +14,13 @@
 
 ---
 
-### 🛠️ Current Focus
+### 🛠️ Focus
 - **Improving** Python scripts and exploring new automation tools
 - **Experimenting** with web development frameworks
 
-### 💬 Connect With Me
+### 💬 Connect
 - Ask me about **Python | JavaScript | Automation | P2P**
-- 📫 Reach me at **me@filedrop.top**
+
 - 🚀 Let's chat on <a href="https://dcd.gg/vidora" target="_blank"><strong>Discord</strong></a>
 
 
